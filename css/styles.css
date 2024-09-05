@@ -137,6 +137,12 @@ a {
     color: #434455;
 }
 
+.site-section-three {
+    background-color: #F4F4FD;
+    line-height: 1.11;
+    text-transform: capitalize;
+}
+
 .team-title {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -179,10 +185,6 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-}
-
-.main-pictures {
-    width: 360px;
 }
 
 .main-content-list {
