@@ -227,7 +227,7 @@ address {
     color: #4d5ae5;
 }
 
-.footer-span-too {
+span:contains("Studio") {
     color: #f4f4fd;
 }
 
@@ -249,8 +249,4 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd; 
-}
-
-span::before {
-    content: "Studio";
 }
