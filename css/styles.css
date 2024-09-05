@@ -227,7 +227,7 @@ address {
     color: #4d5ae5;
 }
 
-span:contains("Studio") {
+.footer-studio-too {
     color: #f4f4fd;
 }
 
