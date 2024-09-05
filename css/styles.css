@@ -75,6 +75,7 @@ a {
 }
 
 .button {
+    font-family: "Roboto", sans-serif;
     border-radius: 4px;
     padding: 16px 32px;
     width: 169px;
