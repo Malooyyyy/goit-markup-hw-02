@@ -68,6 +68,10 @@ a {
     color: #404bbf;
 }
 
+address {
+    font-style: normal;
+}
+
 .title {
     background-color: #2E2F42;    
 }
