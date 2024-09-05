@@ -32,14 +32,6 @@ a {
     color: #4d5ae5;
 }
 
-.header-logo:hover {
-    color: #404bbf;
-}
-
-.header-logo:focus {
-    color: #404bbf;
-}
-
 .header-menu-link {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -66,6 +58,14 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;
+}
+
+.header-address:hover {
+    color: #404bbf;
+}
+
+.header-address:focus {
+    color: #404bbf;
 }
 
 .title {
