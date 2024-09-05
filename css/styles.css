@@ -139,7 +139,6 @@ a {
 
 .site-section-three {
     background-color: #F4F4FD;
-    line-height: 1.11;
     text-transform: capitalize;
 }
 
@@ -155,6 +154,7 @@ a {
 
 .team-item {
     width: 264px;
+    background-color: #FFFFFF;
 }
 
 .team-name {
