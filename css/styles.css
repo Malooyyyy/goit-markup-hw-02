@@ -74,12 +74,7 @@ a {
 }
 
 .button {
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
     font-weight: 500;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
 }
 
@@ -118,10 +113,6 @@ a {
     color: #2e2f42;
 }
 
-.team-item {
-    width: 264px;
-}
-
 .team-name {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -152,9 +143,6 @@ a {
     color: #2e2f42;
 }
 
-.main-content-list {
-    width: 360px;
-}
 
 .portfolio-app {
     font-family: "Roboto", sans-serif;
