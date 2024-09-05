@@ -181,8 +181,14 @@ a {
     color: #2e2f42;
 }
 
+.main-pictures {
+    width: 360px;
+}
+
 .main-content-list {
     width: 360px;
+    line-height: 1.11;
+    text-transform: capitalize;
 }
 
 .portfolio-app {
