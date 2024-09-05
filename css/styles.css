@@ -227,6 +227,10 @@ address {
     color: #4d5ae5;
 }
 
+.footer-span-too {
+    color: #f4f4fd;
+}
+
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -243,5 +247,5 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    color: #f4f4fd; 
 }
