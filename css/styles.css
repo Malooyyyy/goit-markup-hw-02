@@ -108,7 +108,6 @@ address {
 
 .visually-hidden {
     margin: -1px;
-    border: 0;
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
@@ -149,7 +148,6 @@ address {
 }
 
 .team-item {
-    width: 264px;
     background-color: #FFFFFF;
 }
 
@@ -188,7 +186,6 @@ address {
 }
 
 .main-content-list {
-    width: 360px;
     line-height: 1.11;
     text-transform: capitalize;
 }
