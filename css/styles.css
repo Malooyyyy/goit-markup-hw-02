@@ -29,7 +29,7 @@ a {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
+    color: #4d5ae5;
 }
 
 .header-menu-link {
@@ -73,7 +73,7 @@ address {
 }
 
 .title {
-    background-color: #2E2F42;    
+    background-color: #2E2F42;
 }
 
 .main-title {
@@ -95,7 +95,7 @@ address {
     font-weight: 500;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
-    cursor: pointer ;
+    cursor: pointer;
     color: #fff;
     letter-spacing: 0.04em;
     line-height: 1.5;
@@ -248,5 +248,5 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd; 
+    color: #f4f4fd;
 }
